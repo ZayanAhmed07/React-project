@@ -21,9 +21,9 @@ const Header = () => {
         <ul>
           <li><a href="http://localhost:3000/homepage">Home</a></li>
           <li><a href="http://localhost:3000/servicenav">Services</a></li>
-          <li><a href="#">Security Sys</a></li>
-          <li><a href="#">Safes</a></li>
-          <li><a href="#">Garage Door</a></li>
+          <li><a href="https://example.com/securitysys">Security Sys</a></li>
+          <li><a href="https://example.com/safes">Safes</a></li>
+          <li><a href="https://example.com/garagedoor">Garage Door</a></li>
           <li><a href="http://localhost:3000/pricelist">Price List</a></li>
           <li><a href="http://localhost:3000/serviceareas">Service Areas</a></li>
           <li><a href="http://localhost:3000/about">About Us</a></li>
